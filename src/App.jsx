@@ -5,8 +5,6 @@ import Register from "./pages/Register/Regiser";
 import Landing from "./pages/Landing/Landing";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import "./App.css";
-
 const App = () => {
   return (
     <Router>
