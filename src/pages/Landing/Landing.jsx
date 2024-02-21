@@ -9,8 +9,7 @@ const Landing = () => {
       <Nav />
       <div className="welcomeText text-center text-white d-flex justify-content-center align-items-center flex-column ">
         <h1 className="fw-bold fs-1 p-5">
-          Welcome to UserManagement Pro, where user administration becomes a joy
-          rather than a chore.
+          This is ManageUs that helps you manage users datas.
         </h1>
         <Link className="link-btn fs-2" to="/register">
           Get Started Now
